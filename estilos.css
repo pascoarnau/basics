@@ -1,0 +1,11 @@
+        body {
+            margin-left: 33%;
+            margin-right: 33%;
+        }
+        a {
+            color: rgb(31, 214, 126);
+        }
+        img {
+            max-width: 100%; 
+            height: auto;
+        }
