@@ -6,11 +6,10 @@
             color: rgb(31, 214, 126);
         }
         img {
-            max-width: 100%; 
+            max-width: 100%;
             height: auto;
         }
-        img {
-            width: 100%;
-            margin-top: 20px;
+        img:last-of-type {
+            margin-top: 20px; 
         }
         
