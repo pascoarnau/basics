@@ -1,15 +1,21 @@
-        body {
-            margin-left: 33%;
-            margin-right: 33%;
-        }
-        a {
-            color: rgb(31, 214, 126);
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        img:last-of-type {
-            margin-top: 40px; 
-        }
-         
+/* Márgenes */
+body {
+    margin-left: 33%;  
+    margin-right: 33%;
+}
+
+/* Color de los enlces */
+a {
+    color: rgb(31, 214, 126);  
+}
+
+/* Proporciónes de la imagen */
+img {
+    max-width: 100%;  
+    height: auto;  
+}
+
+/* Margen superior de la última imagen */
+img:last-of-type {
+    margin-top: 40px;  
+}
